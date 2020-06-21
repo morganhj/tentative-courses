@@ -1,0 +1,143 @@
+Alvina:
+  first_name: "Alvina"
+  last_name: "Herman"
+  email: "test1@example.com"
+  role: "student"
+  mode: "grouped"
+  level: "beginner" 
+  dates: "{\"monday\":[{\"from\":\"9\",\"to\":\"14\"},{\"from\":\"15\",\"to\":\"22\"}],\"tuesday\":[{\"from\":\"8\",\"to\":\"10\"},{\"from\":\"15\",\"to\":\"18\"}],\"wednesday\":[{\"from\":\"10\",\"to\":\"12\"},{\"from\":\"14\",\"to\":\"19\"}],\"thursday\":[{\"from\":\"10\",\"to\":\"14\"},{\"from\":\"18\",\"to\":\"22\"}],\"friday\":[{\"from\":\"8\",\"to\":\"13\"},{\"from\":\"18\",\"to\":\"20\"}],\"saturday\":[{\"from\":\"10\",\"to\":\"12\"},{\"from\":\"14\",\"to\":\"20\"}]}"
+
+Jonathan:
+  first_name: "Jonathan"
+  last_name: "Abbott"
+  email: "test2@example.com"
+  role: "student"
+  mode: "grouped"
+  level: "beginner" 
+  dates: "{\"monday\":[{\"from\":\"8\",\"to\":\"14\"},{\"from\":\"17\",\"to\":\"21\"}],\"tuesday\":[{\"from\":\"10\",\"to\":\"13\"},{\"from\":\"17\",\"to\":\"22\"}],\"wednesday\":[{\"from\":\"9\",\"to\":\"14\"},{\"from\":\"17\",\"to\":\"20\"}],\"thursday\":[{\"from\":\"9\",\"to\":\"10\"},{\"from\":\"18\",\"to\":\"22\"}],\"friday\":[{\"from\":\"8\",\"to\":\"13\"},{\"from\":\"17\",\"to\":\"20\"}],\"saturday\":[{\"from\":\"10\",\"to\":\"10\"},{\"from\":\"18\",\"to\":\"20\"}]}"
+
+Maxine:
+  first_name: "Maxine"
+  last_name: "Pfannerstill"
+  email: "test3@example.com"
+  role: "student"
+  mode: "grouped"
+  level: "pre_intermediate" 
+  dates: "{\"monday\":[{\"from\":\"8\",\"to\":\"11\"},{\"from\":\"18\",\"to\":\"22\"}],\"tuesday\":[{\"from\":\"9\",\"to\":\"14\"},{\"from\":\"15\",\"to\":\"20\"}],\"wednesday\":[{\"from\":\"9\",\"to\":\"13\"},{\"from\":\"16\",\"to\":\"19\"}],\"thursday\":[{\"from\":\"9\",\"to\":\"14\"},{\"from\":\"16\",\"to\":\"20\"}],\"friday\":[{\"from\":\"9\",\"to\":\"11\"},{\"from\":\"14\",\"to\":\"20\"}],\"saturday\":[{\"from\":\"10\",\"to\":\"11\"},{\"from\":\"18\",\"to\":\"20\"}]}"
+
+Tisha:
+  first_name: "Tisha"
+  last_name: "Rath"
+  email: "test4@example.com"
+  role: "student"
+  mode: "grouped"
+  level: "pre_intermediate" 
+  dates: "{\"monday\":[{\"from\":\"9\",\"to\":\"13\"},{\"from\":\"16\",\"to\":\"20\"}],\"tuesday\":[{\"from\":\"9\",\"to\":\"12\"},{\"from\":\"18\",\"to\":\"19\"}],\"wednesday\":[{\"from\":\"9\",\"to\":\"10\"},{\"from\":\"16\",\"to\":\"19\"}],\"thursday\":[{\"from\":\"8\",\"to\":\"14\"},{\"from\":\"17\",\"to\":\"18\"}],\"friday\":[{\"from\":\"8\",\"to\":\"11\"},{\"from\":\"16\",\"to\":\"20\"}],\"saturday\":[{\"from\":\"8\",\"to\":\"10\"},{\"from\":\"17\",\"to\":\"21\"}]}"
+
+Debbi:
+  first_name: "Debbi"
+  last_name: "Yundt"
+  email: "test5@example.com"
+  role: "student"
+  mode: "grouped"
+  level: "intermediate" 
+  dates: "{\"monday\":[{\"from\":\"8\",\"to\":\"14\"},{\"from\":\"16\",\"to\":\"18\"}],\"tuesday\":[{\"from\":\"10\",\"to\":\"11\"},{\"from\":\"16\",\"to\":\"21\"}],\"wednesday\":[{\"from\":\"9\",\"to\":\"13\"},{\"from\":\"17\",\"to\":\"19\"}],\"thursday\":[{\"from\":\"8\",\"to\":\"10\"},{\"from\":\"17\",\"to\":\"21\"}],\"friday\":[{\"from\":\"8\",\"to\":\"14\"},{\"from\":\"17\",\"to\":\"22\"}],\"saturday\":[{\"from\":\"10\",\"to\":\"11\"},{\"from\":\"14\",\"to\":\"21\"}]}"
+
+Laveta:
+  first_name: "Laveta"
+  last_name: "Moen"
+  email: "test6@example.com"
+  role: "student"
+  mode: "grouped"
+  level: "intermediate" 
+  dates: "{\"monday\":[{\"from\":\"9\",\"to\":\"10\"},{\"from\":\"17\",\"to\":\"18\"}],\"tuesday\":[{\"from\":\"10\",\"to\":\"10\"},{\"from\":\"15\",\"to\":\"19\"}],\"wednesday\":[{\"from\":\"10\",\"to\":\"10\"},{\"from\":\"17\",\"to\":\"21\"}],\"thursday\":[{\"from\":\"8\",\"to\":\"10\"},{\"from\":\"14\",\"to\":\"20\"}],\"friday\":[{\"from\":\"9\",\"to\":\"14\"},{\"from\":\"17\",\"to\":\"18\"}],\"saturday\":[{\"from\":\"10\",\"to\":\"11\"},{\"from\":\"18\",\"to\":\"20\"}]}"
+
+Bryant:
+  first_name: "Bryant"
+  last_name: "Dietrich"
+  email: "test7@example.com"
+  role: "student"
+  mode: "grouped"
+  level: "upper_intermediate" 
+  dates: "{\"monday\":[{\"from\":\"9\",\"to\":\"11\"},{\"from\":\"15\",\"to\":\"22\"}],\"tuesday\":[{\"from\":\"8\",\"to\":\"12\"},{\"from\":\"16\",\"to\":\"22\"}],\"wednesday\":[{\"from\":\"10\",\"to\":\"10\"},{\"from\":\"15\",\"to\":\"21\"}],\"thursday\":[{\"from\":\"8\",\"to\":\"13\"},{\"from\":\"15\",\"to\":\"20\"}],\"friday\":[{\"from\":\"8\",\"to\":\"10\"},{\"from\":\"16\",\"to\":\"21\"}],\"saturday\":[{\"from\":\"8\",\"to\":\"13\"},{\"from\":\"17\",\"to\":\"21\"}]}"
+
+Kellee:
+  first_name: "Kellee"
+  last_name: "Simonis"
+  email: "test8@example.com"
+  role: "student"
+  mode: "grouped"
+  level: "upper_intermediate" 
+  dates: "{\"monday\":[{\"from\":\"8\",\"to\":\"10\"},{\"from\":\"17\",\"to\":\"18\"}],\"tuesday\":[{\"from\":\"8\",\"to\":\"12\"},{\"from\":\"18\",\"to\":\"20\"}],\"wednesday\":[{\"from\":\"10\",\"to\":\"12\"},{\"from\":\"14\",\"to\":\"22\"}],\"thursday\":[{\"from\":\"8\",\"to\":\"12\"},{\"from\":\"15\",\"to\":\"21\"}],\"friday\":[{\"from\":\"10\",\"to\":\"10\"},{\"from\":\"14\",\"to\":\"21\"}],\"saturday\":[{\"from\":\"8\",\"to\":\"13\"},{\"from\":\"16\",\"to\":\"20\"}]}"
+
+Junior:
+  first_name: "Junior"
+  last_name: "Veum"
+  email: "test9@example.com"
+  role: "student"
+  mode: "grouped"
+  level: "advanced" 
+  dates: "{\"monday\":[{\"from\":\"9\",\"to\":\"14\"},{\"from\":\"18\",\"to\":\"18\"}],\"tuesday\":[{\"from\":\"8\",\"to\":\"14\"},{\"from\":\"14\",\"to\":\"21\"}],\"wednesday\":[{\"from\":\"9\",\"to\":\"14\"},{\"from\":\"16\",\"to\":\"18\"}],\"thursday\":[{\"from\":\"10\",\"to\":\"11\"},{\"from\":\"14\",\"to\":\"22\"}],\"friday\":[{\"from\":\"8\",\"to\":\"13\"},{\"from\":\"16\",\"to\":\"20\"}],\"saturday\":[{\"from\":\"10\",\"to\":\"10\"},{\"from\":\"15\",\"to\":\"22\"}]}"
+
+Arden:
+  first_name: "Arden"
+  last_name: "Marquardt"
+  email: "test10@example.com"
+  role: "student"
+  mode: "grouped"
+  level: "advanced" 
+  dates: "{\"monday\":[{\"from\":\"10\",\"to\":\"12\"},{\"from\":\"18\",\"to\":\"18\"}],\"tuesday\":[{\"from\":\"8\",\"to\":\"12\"},{\"from\":\"15\",\"to\":\"21\"}],\"wednesday\":[{\"from\":\"8\",\"to\":\"12\"},{\"from\":\"14\",\"to\":\"18\"}],\"thursday\":[{\"from\":\"9\",\"to\":\"14\"},{\"from\":\"16\",\"to\":\"20\"}],\"friday\":[{\"from\":\"10\",\"to\":\"12\"},{\"from\":\"16\",\"to\":\"21\"}],\"saturday\":[{\"from\":\"8\",\"to\":\"14\"},{\"from\":\"18\",\"to\":\"18\"}]}"
+
+Melissia:
+  first_name: Melissia
+  last_name: Leannon
+  email: "test11@example.com"
+  role: "student"
+  mode: "grouped"
+  level: "advanced" 
+  dates: "{\"monday\":[{\"from\":\"10\",\"to\":\"12\"},{\"from\":\"18\",\"to\":\"18\"}],\"tuesday\":[{\"from\":\"8\",\"to\":\"12\"},{\"from\":\"15\",\"to\":\"21\"}],\"wednesday\":[{\"from\":\"8\",\"to\":\"12\"},{\"from\":\"14\",\"to\":\"18\"}],\"thursday\":[{\"from\":\"9\",\"to\":\"14\"},{\"from\":\"16\",\"to\":\"20\"}],\"friday\":[{\"from\":\"10\",\"to\":\"12\"},{\"from\":\"16\",\"to\":\"21\"}],\"saturday\":[{\"from\":\"8\",\"to\":\"14\"},{\"from\":\"18\",\"to\":\"18\"}]}"
+
+Geraldo:
+  first_name: Geraldo
+  last_name: Harris
+  email: "test12@example.com"
+  role: "teacher"
+  mode: "grouped"
+  level: "advanced" 
+  dates: "{\"monday\":[{\"from\":\"9\",\"to\":\"14\"},{\"from\":\"16\",\"to\":\"22\"}],\"tuesday\":[{\"from\":\"8\",\"to\":\"14\"},{\"from\":\"16\",\"to\":\"18\"}],\"wednesday\":[{\"from\":\"8\",\"to\":\"14\"},{\"from\":\"18\",\"to\":\"20\"}],\"thursday\":[{\"from\":\"8\",\"to\":\"14\"},{\"from\":\"18\",\"to\":\"18\"}],\"friday\":[{\"from\":\"10\",\"to\":\"14\"},{\"from\":\"16\",\"to\":\"21\"}],\"saturday\":[{\"from\":\"9\",\"to\":\"10\"},{\"from\":\"17\",\"to\":\"21\"}]}"
+
+Chase:
+  first_name: Chase
+  last_name: Leuschke
+  email: "test13@example.com"
+  role: "teacher"
+  mode: "grouped"
+  level: "advanced" 
+  dates: "{\"monday\":[{\"from\":\"8\",\"to\":\"12\"},{\"from\":\"15\",\"to\":\"19\"}],\"tuesday\":[{\"from\":\"8\",\"to\":\"10\"},{\"from\":\"14\",\"to\":\"20\"}],\"wednesday\":[{\"from\":\"10\",\"to\":\"13\"},{\"from\":\"15\",\"to\":\"21\"}],\"thursday\":[{\"from\":\"10\",\"to\":\"14\"},{\"from\":\"15\",\"to\":\"18\"}],\"friday\":[{\"from\":\"9\",\"to\":\"13\"},{\"from\":\"15\",\"to\":\"19\"}],\"saturday\":[{\"from\":\"10\",\"to\":\"12\"},{\"from\":\"17\",\"to\":\"19\"}]}"
+
+Tiera:
+  first_name: Tiera
+  last_name: Luettgen
+  email: "test14@example.com"
+  role: "teacher"
+  mode: "grouped"
+  level: "advanced" 
+  dates: "{\"monday\":[{\"from\":\"9\",\"to\":\"10\"},{\"from\":\"18\",\"to\":\"20\"}],\"tuesday\":[{\"from\":\"9\",\"to\":\"12\"},{\"from\":\"18\",\"to\":\"22\"}],\"wednesday\":[{\"from\":\"10\",\"to\":\"12\"},{\"from\":\"17\",\"to\":\"19\"}],\"thursday\":[{\"from\":\"9\",\"to\":\"13\"},{\"from\":\"17\",\"to\":\"20\"}],\"friday\":[{\"from\":\"10\",\"to\":\"12\"},{\"from\":\"15\",\"to\":\"22\"}],\"saturday\":[{\"from\":\"10\",\"to\":\"14\"},{\"from\":\"14\",\"to\":\"20\"}]}"
+
+Tyra:
+  first_name: Tyra
+  last_name: Renner
+  email: "test15@example.com"
+  role: "teacher"
+  mode: "grouped"
+  level: "advanced" 
+  dates: "{\"monday\":[{\"from\":\"9\",\"to\":\"10\"},{\"from\":\"18\",\"to\":\"18\"}],\"tuesday\":[{\"from\":\"10\",\"to\":\"13\"},{\"from\":\"18\",\"to\":\"19\"}],\"wednesday\":[{\"from\":\"10\",\"to\":\"12\"},{\"from\":\"16\",\"to\":\"21\"}],\"thursday\":[{\"from\":\"10\",\"to\":\"10\"},{\"from\":\"17\",\"to\":\"18\"}],\"friday\":[{\"from\":\"10\",\"to\":\"14\"},{\"from\":\"16\",\"to\":\"19\"}],\"saturday\":[{\"from\":\"10\",\"to\":\"12\"},{\"from\":\"17\",\"to\":\"22\"}]}"
+
+Rod:
+  first_name: Rod
+  last_name: Wuckert
+  email: "test16@example.com"
+  role: "teacher"
+  mode: "grouped"
+  level: "advanced" 
+  dates: "{\"monday\":[{\"from\":\"8\",\"to\":\"12\"},{\"from\":\"17\",\"to\":\"21\"}],\"tuesday\":[{\"from\":\"10\",\"to\":\"12\"},{\"from\":\"15\",\"to\":\"19\"}],\"wednesday\":[{\"from\":\"10\",\"to\":\"11\"},{\"from\":\"18\",\"to\":\"21\"}],\"thursday\":[{\"from\":\"8\",\"to\":\"13\"},{\"from\":\"15\",\"to\":\"21\"}],\"friday\":[{\"from\":\"10\",\"to\":\"12\"},{\"from\":\"16\",\"to\":\"18\"}],\"saturday\":[{\"from\":\"8\",\"to\":\"14\"},{\"from\":\"15\",\"to\":\"22\"}]}"

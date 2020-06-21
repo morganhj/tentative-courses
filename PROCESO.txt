@@ -1,0 +1,67 @@
+1. primero leo los objetivos del ejercicio. De que se trata.
+2. anoto los elementos escenciales como cuales van a ser los objetos a crear.
+3. anoto que objetos se vinculan con otros.
+
+
+4. Elijo objetos que me permitan manipular la logica facilmente.
+
+OBJETOS:
+	- Course (clase)
+		Attributes:
+			{
+				mode: [:grouped, :single],
+				level: [:beginner, :pre-intermediate, :intermediate,
+						:upper-intermediate, :advanced],
+				dates: [date_1, date_2, date_3],
+			}
+	- User
+		Attributes:
+			{	id: :integer,
+				first_name: :string,
+				last_name: :string,
+				role: [:student, :teacher],
+				available: 
+				[
+					{ 	week-day: "monday", 
+						time: [
+								  { from: "08:00", 
+									to: "14:00" 
+								  },
+								  { from: "16:00", 
+									to: "20:00" 
+								  }
+							  ]
+					},
+					{ 	week-day: "wednesday", 
+						time: [
+								  { from: "10:00", 
+									to: "12:00" 
+								  },
+								  { from: "16:00", 
+									to: "17:00" 
+								  }
+							  ]
+					}
+				],
+				level: [:beginner, :pre-intermediate, :intermediate,
+						:upper-intermediate, :advanced],
+				course_id: default: null
+			}
+
+TESTS:
+
+	TESTING USER MODEL ->
+	
+		A MEDIDA QUE VOY CREANDO METODOS VOY TESTEANDO LA SALIDA MEDIANTE RSPEC.
+		COMIENZO EL TESTEO EN ROJO HASTA QUE LOGRO EL RESULTADO DESEADO DEL METODO.
+		ESTO LO ACOMPAÑO CON LA GEM PRY-BYEBUG, LA CUAL ME PERMITE DEBUGEAR EL CODIGO EN TIEMPO REAL.
+
+SEED:
+	SEEDEO CON ESTUDIANTES Y PROFESORES. UNA CANTIDAD RAZONABLE PARA TENER CURSOS DE MENOS DE 6 ESTUDIANTES, SIN QUEDARME CORTO DE PROFESORES. (ESTO SE REGULARÁ)
+
+ACLARACION:
+	PUEDE QUE POCOS ALUMNOS SE QUEDEN SIN CLASES PORQUE NINGUN PROFESOR TIENE DISPONIBILIDAD, POR LO CUAL SE DEBERA BUSCAR UN PROFESOR NUEVO CON DISPONIBILIDAD
+	U OFRECERLE UNA CLASE GRUPAL Y SI SE NIEGA, RECHAZARLO.
+
+
+		
