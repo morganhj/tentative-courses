@@ -1,3 +1,34 @@
+To initialize the algorithm, follow steps:
+
+## 1. run Rails db:migrate
+## 2. run Rails db:seed
+## 3. run Rails c
+## 4. > User.select_and_assign
+
+Courses will be created, and students assigned to their respective courses with the best possible distribution.
+
+Comments: 
+  
+ - Student and teacher availability is set as two time slots, 1 in the morning and 1 in the afternoon.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Tentative Courses
 
 Este es un ejercicio a realizar como parte de la entrevista técnica para la posición de Software Engineer dentro de Nulinga. 
